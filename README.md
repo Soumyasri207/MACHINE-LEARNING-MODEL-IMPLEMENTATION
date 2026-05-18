@@ -41,4 +41,8 @@ Spam detection systems are widely used in different fields. Email services use s
 Conclusion:
 Machine learning-based spam detection using Python is an effective solution for filtering unwanted messages. By using Python libraries and machine learning algorithms in Jupyter Notebook, the model can classify messages accurately and efficiently. The project demonstrates how artificial intelligence can improve communication systems and provide better security in digital platforms
 
+OUTPUT 1:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8decb657-ff62-43af-8e38-7f0e8ccce509" />
+
 
